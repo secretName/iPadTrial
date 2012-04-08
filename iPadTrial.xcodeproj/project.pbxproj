@@ -25,6 +25,8 @@
 		E26284A5153236F4003AEE1E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E262847B153236F4003AEE1E /* Foundation.framework */; };
 		E26284AD153236F4003AEE1E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E26284AB153236F4003AEE1E /* InfoPlist.strings */; };
 		E26284B0153236F4003AEE1E /* iPadTrialTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E26284AF153236F4003AEE1E /* iPadTrialTests.m */; };
+		E26284BA15323810003AEE1E /* BurgerGuac-450.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284B915323810003AEE1E /* BurgerGuac-450.jpg */; };
+		E26284BC15323D4C003AEE1E /* California Burger.xib in Resources */ = {isa = PBXBuildFile; fileRef = E26284BB15323D4C003AEE1E /* California Burger.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,27 +44,29 @@
 		E2628479153236F4003AEE1E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E262847B153236F4003AEE1E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E262847D153236F4003AEE1E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		E2628481153236F4003AEE1E /* iPadTrial-Info.plist */ = {isa = PBXFileReference; path = "iPadTrial-Info.plist"; sourceTree = "<group>"; };
+		E2628481153236F4003AEE1E /* iPadTrial-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPadTrial-Info.plist"; sourceTree = "<group>"; };
 		E2628483153236F4003AEE1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E2628485153236F4003AEE1E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E2628487153236F4003AEE1E /* iPadTrial-Prefix.pch */ = {isa = PBXFileReference; path = "iPadTrial-Prefix.pch"; sourceTree = "<group>"; };
-		E2628488153236F4003AEE1E /* MenuTrialAppDelegate.h */ = {isa = PBXFileReference; path = MenuTrialAppDelegate.h; sourceTree = "<group>"; };
+		E2628487153236F4003AEE1E /* iPadTrial-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iPadTrial-Prefix.pch"; sourceTree = "<group>"; };
+		E2628488153236F4003AEE1E /* MenuTrialAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuTrialAppDelegate.h; sourceTree = "<group>"; };
 		E2628489153236F4003AEE1E /* MenuTrialAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuTrialAppDelegate.m; sourceTree = "<group>"; };
 		E262848C153236F4003AEE1E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		E262848E153236F4003AEE1E /* MenuTrialFirstViewController.h */ = {isa = PBXFileReference; path = MenuTrialFirstViewController.h; sourceTree = "<group>"; };
+		E262848E153236F4003AEE1E /* MenuTrialFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuTrialFirstViewController.h; sourceTree = "<group>"; };
 		E262848F153236F4003AEE1E /* MenuTrialFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuTrialFirstViewController.m; sourceTree = "<group>"; };
 		E2628491153236F4003AEE1E /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		E2628493153236F4003AEE1E /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		E2628495153236F4003AEE1E /* MenuTrialSecondViewController.h */ = {isa = PBXFileReference; path = MenuTrialSecondViewController.h; sourceTree = "<group>"; };
+		E2628495153236F4003AEE1E /* MenuTrialSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuTrialSecondViewController.h; sourceTree = "<group>"; };
 		E2628496153236F4003AEE1E /* MenuTrialSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuTrialSecondViewController.m; sourceTree = "<group>"; };
 		E2628498153236F4003AEE1E /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		E262849A153236F4003AEE1E /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		E26284A1153236F4003AEE1E /* iPadTrialTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPadTrialTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E26284A2153236F4003AEE1E /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		E26284AA153236F4003AEE1E /* iPadTrialTests-Info.plist */ = {isa = PBXFileReference; path = "iPadTrialTests-Info.plist"; sourceTree = "<group>"; };
+		E26284AA153236F4003AEE1E /* iPadTrialTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPadTrialTests-Info.plist"; sourceTree = "<group>"; };
 		E26284AC153236F4003AEE1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		E26284AE153236F4003AEE1E /* iPadTrialTests.h */ = {isa = PBXFileReference; path = iPadTrialTests.h; sourceTree = "<group>"; };
+		E26284AE153236F4003AEE1E /* iPadTrialTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iPadTrialTests.h; sourceTree = "<group>"; };
 		E26284AF153236F4003AEE1E /* iPadTrialTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPadTrialTests.m; sourceTree = "<group>"; };
+		E26284B915323810003AEE1E /* BurgerGuac-450.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "BurgerGuac-450.jpg"; path = "../../../Downloads/zhan2-Tabs-fa87e71 2/Tabs/BurgerGuac-450.jpg"; sourceTree = "<group>"; };
+		E26284BB15323D4C003AEE1E /* California Burger.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "California Burger.xib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,9 +126,11 @@
 		E262847F153236F4003AEE1E /* iPadTrial */ = {
 			isa = PBXGroup;
 			children = (
+				E26284B915323810003AEE1E /* BurgerGuac-450.jpg */,
 				E2628488153236F4003AEE1E /* MenuTrialAppDelegate.h */,
 				E2628489153236F4003AEE1E /* MenuTrialAppDelegate.m */,
 				E262848B153236F4003AEE1E /* MainStoryboard.storyboard */,
+				E26284BB15323D4C003AEE1E /* California Burger.xib */,
 				E262848E153236F4003AEE1E /* MenuTrialFirstViewController.h */,
 				E262848F153236F4003AEE1E /* MenuTrialFirstViewController.m */,
 				E2628491153236F4003AEE1E /* first.png */,
@@ -246,6 +252,8 @@
 				E2628494153236F4003AEE1E /* first@2x.png in Resources */,
 				E2628499153236F4003AEE1E /* second.png in Resources */,
 				E262849B153236F4003AEE1E /* second@2x.png in Resources */,
+				E26284BA15323810003AEE1E /* BurgerGuac-450.jpg in Resources */,
+				E26284BC15323D4C003AEE1E /* California Burger.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
