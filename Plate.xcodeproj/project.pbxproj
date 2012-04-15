@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E2458E6F153A5E3600A2F60B /* facebook-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E6E153A5E3600A2F60B /* facebook-icon.png */; };
+		E2458E72153A5E9C00A2F60B /* twitter-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E71153A5E9C00A2F60B /* twitter-icon.png */; };
+		E2458E75153A5F1100A2F60B /* 12016174.c0d460db.560.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2458E73153A5F1100A2F60B /* 12016174.c0d460db.560.jpg */; };
+		E2458E76153A5F1100A2F60B /* socialIcons_pinterest.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E74153A5F1100A2F60B /* socialIcons_pinterest.png */; };
+		E2458E7A153A8F6200A2F60B /* Soda.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E79153A8F6200A2F60B /* Soda.png */; };
+		E2458E7C153A933400A2F60B /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E7B153A933400A2F60B /* Default-Landscape@2x~ipad.png */; };
+		E2458E7E153A935600A2F60B /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E7D153A935600A2F60B /* Default-Landscape~ipad.png */; };
+		E2458E80153B3A6100A2F60B /* 121-landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E7F153B3A6100A2F60B /* 121-landscape.png */; };
+		E2458E82153B3A6C00A2F60B /* 179-notepad.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E81153B3A6C00A2F60B /* 179-notepad.png */; };
+		E2458E85153B4F4300A2F60B /* Google_login_button.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E83153B4F4200A2F60B /* Google_login_button.png */; };
+		E2458E86153B4F4300A2F60B /* login-facebook-button.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E84153B4F4200A2F60B /* login-facebook-button.png */; };
+		E2458E88153B535A00A2F60B /* Steenbocks_RGB_Large.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E2458E87153B535A00A2F60B /* Steenbocks_RGB_Large.jpg */; };
+		E2458E8A153B53CA00A2F60B /* Steenbocks_RGB_Large.png in Resources */ = {isa = PBXBuildFile; fileRef = E2458E89153B53CA00A2F60B /* Steenbocks_RGB_Large.png */; };
 		E262847A153236F4003AEE1E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2628479153236F4003AEE1E /* UIKit.framework */; };
 		E262847C153236F4003AEE1E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E262847B153236F4003AEE1E /* Foundation.framework */; };
 		E262847E153236F4003AEE1E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E262847D153236F4003AEE1E /* CoreGraphics.framework */; };
@@ -27,6 +40,82 @@
 		E26284B0153236F4003AEE1E /* iPadTrialTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E26284AF153236F4003AEE1E /* iPadTrialTests.m */; };
 		E26284BA15323810003AEE1E /* BurgerGuac-450.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284B915323810003AEE1E /* BurgerGuac-450.jpg */; };
 		E26284BC15323D4C003AEE1E /* California Burger.xib in Resources */ = {isa = PBXBuildFile; fileRef = E26284BB15323D4C003AEE1E /* California Burger.xib */; };
+		E26284C21533BA82003AEE1E /* Plate3_Logo(5x5)-page-001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284C11533BA82003AEE1E /* Plate3_Logo(5x5)-page-001.jpg */; };
+		E26284C41533BBDA003AEE1E /* Screen Shot 2012-04-09 at 7.51.22 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284C31533BBD9003AEE1E /* Screen Shot 2012-04-09 at 7.51.22 PM.png */; };
+		E26284CE1535FACF003AEE1E /* Nutrition.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284CD1535FACF003AEE1E /* Nutrition.jpg */; };
+		E26284D215366078003AEE1E /* appIcon72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284D115366078003AEE1E /* appIcon72x72.png */; };
+		E26284D415366110003AEE1E /* appIcon144x144.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284D315366110003AEE1E /* appIcon144x144.png */; };
+		E26284D615366513003AEE1E /* appIcon_background144x144.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284D515366512003AEE1E /* appIcon_background144x144.png */; };
+		E26284D815366A91003AEE1E /* wine.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284D715366A90003AEE1E /* wine.png */; };
+		E26284DA15366F57003AEE1E /* wine_alpha.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284D915366F57003AEE1E /* wine_alpha.png */; };
+		E26284DC15367220003AEE1E /* wine_alpha1.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284DB1536721F003AEE1E /* wine_alpha1.png */; };
+		E26284E415367640003AEE1E /* entree_alpha.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284E31536763F003AEE1E /* entree_alpha.png */; };
+		E26284E615367E93003AEE1E /* appetizer_alpha.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284E515367E93003AEE1E /* appetizer_alpha.png */; };
+		E26284E81536819C003AEE1E /* dessert_alpha.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284E71536819C003AEE1E /* dessert_alpha.png */; };
+		E26284EA153682CE003AEE1E /* drink_alpha.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284E9153682CE003AEE1E /* drink_alpha.png */; };
+		E26284EC15368642003AEE1E /* non-alcoholic_alpha.png in Resources */ = {isa = PBXBuildFile; fileRef = E26284EB15368641003AEE1E /* non-alcoholic_alpha.png */; };
+		E26284F4153791C2003AEE1E /* Duck_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284F3153791C2003AEE1E /* Duck_03.jpg */; };
+		E26284F6153791D9003AEE1E /* FishCheek_DET_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284F5153791D9003AEE1E /* FishCheek_DET_1.jpg */; };
+		E26284F8153791F3003AEE1E /* FPBurger_0020.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284F7153791F3003AEE1E /* FPBurger_0020.jpg */; };
+		E26284FA15379210003AEE1E /* Lamb_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284F915379210003AEE1E /* Lamb_03.jpg */; };
+		E26284FC1537921B003AEE1E /* Lobster_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284FB1537921B003AEE1E /* Lobster_DET_2.jpg */; };
+		E26284FE1537922B003AEE1E /* PorkChop_0202.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26284FD1537922B003AEE1E /* PorkChop_0202.jpg */; };
+		E262853015379246003AEE1E /* BeefTarTar_0071.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850015379246003AEE1E /* BeefTarTar_0071.jpg */; };
+		E262853215379246003AEE1E /* Beets_C.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850215379246003AEE1E /* Beets_C.jpg */; };
+		E262853515379246003AEE1E /* Cheesecake_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850515379246003AEE1E /* Cheesecake_04.jpg */; };
+		E262853615379246003AEE1E /* ChefMichael.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850615379246003AEE1E /* ChefMichael.jpg */; };
+		E262853715379246003AEE1E /* ChocoCake_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850715379246003AEE1E /* ChocoCake_03.jpg */; };
+		E262853815379246003AEE1E /* Crostini_0054.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850815379246003AEE1E /* Crostini_0054.jpg */; };
+		E262853915379246003AEE1E /* Crostini_DET_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850915379246003AEE1E /* Crostini_DET_6.jpg */; };
+		E262853A15379246003AEE1E /* Crostini_DET_9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850A15379246003AEE1E /* Crostini_DET_9.jpg */; };
+		E262853B15379246003AEE1E /* Duck_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850B15379246003AEE1E /* Duck_03.jpg */; };
+		E262853C15379246003AEE1E /* entrance.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850C15379246003AEE1E /* entrance.jpg */; };
+		E262853D15379246003AEE1E /* FieldGreens_B.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850D15379246003AEE1E /* FieldGreens_B.jpg */; };
+		E262853E15379246003AEE1E /* FishCheek_DET_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850E15379246003AEE1E /* FishCheek_DET_1.jpg */; };
+		E262853F15379246003AEE1E /* Fluke_0119.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262850F15379246003AEE1E /* Fluke_0119.jpg */; };
+		E262854015379246003AEE1E /* Foiegras_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851015379246003AEE1E /* Foiegras_01.jpg */; };
+		E262854115379246003AEE1E /* FoieGras_0138.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851115379246003AEE1E /* FoieGras_0138.jpg */; };
+		E262854215379246003AEE1E /* FoieGras_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851215379246003AEE1E /* FoieGras_DET_2.jpg */; };
+		E262854315379246003AEE1E /* FPBurger_0020.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851315379246003AEE1E /* FPBurger_0020.jpg */; };
+		E262854415379246003AEE1E /* kitchen_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851415379246003AEE1E /* kitchen_01.jpg */; };
+		E262854515379246003AEE1E /* Kitchen_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851515379246003AEE1E /* Kitchen_02.jpg */; };
+		E262854615379246003AEE1E /* Lamb_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851615379246003AEE1E /* Lamb_03.jpg */; };
+		E262854715379246003AEE1E /* Lobster_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851715379246003AEE1E /* Lobster_DET_2.jpg */; };
+		E262854815379246003AEE1E /* Oysters_0086.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851815379246003AEE1E /* Oysters_0086.jpg */; };
+		E262854915379246003AEE1E /* PorkChop_0202.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851915379246003AEE1E /* PorkChop_0202.jpg */; };
+		E262854A15379246003AEE1E /* PorkChop_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851A15379246003AEE1E /* PorkChop_DET_2.jpg */; };
+		E262854B15379246003AEE1E /* PorkTender_0190.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851B15379246003AEE1E /* PorkTender_0190.jpg */; };
+		E262854C15379246003AEE1E /* PorkTender_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851C15379246003AEE1E /* PorkTender_DET_2.jpg */; };
+		E262854D15379246003AEE1E /* RockShrimp_0039.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851D15379246003AEE1E /* RockShrimp_0039.jpg */; };
+		E262854E15379246003AEE1E /* Scallops_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851E15379246003AEE1E /* Scallops_02.jpg */; };
+		E262854F15379246003AEE1E /* Smore_0233.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262851F15379246003AEE1E /* Smore_0233.jpg */; };
+		E262855015379246003AEE1E /* Snapper_0159.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852015379246003AEE1E /* Snapper_0159.jpg */; };
+		E262855115379246003AEE1E /* Snapper_DET_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852115379246003AEE1E /* Snapper_DET_1.jpg */; };
+		E262855215379246003AEE1E /* Sole_0180.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852215379246003AEE1E /* Sole_0180.jpg */; };
+		E262855315379246003AEE1E /* Splat_0010.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852315379246003AEE1E /* Splat_0010.jpg */; };
+		E262855415379246003AEE1E /* Splat_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852415379246003AEE1E /* Splat_DET_2.jpg */; };
+		E262855515379246003AEE1E /* SteenbockAldo_003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852515379246003AEE1E /* SteenbockAldo_003.jpg */; };
+		E262855615379246003AEE1E /* SteenbockAldo_012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852615379246003AEE1E /* SteenbockAldo_012.jpg */; };
+		E262855715379246003AEE1E /* SteenbockAldo_014.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852715379246003AEE1E /* SteenbockAldo_014.jpg */; };
+		E262855815379246003AEE1E /* SteenbockAldo_017.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852815379246003AEE1E /* SteenbockAldo_017.jpg */; };
+		E262855915379246003AEE1E /* SteenbockNight_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852915379246003AEE1E /* SteenbockNight_01.jpg */; };
+		E262855A15379246003AEE1E /* SteenbockNight_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852A15379246003AEE1E /* SteenbockNight_12.jpg */; };
+		E262855B15379246003AEE1E /* StripedBass_0174.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852B15379246003AEE1E /* StripedBass_0174.jpg */; };
+		E262855C15379246003AEE1E /* StripedBass_DET_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852C15379246003AEE1E /* StripedBass_DET_1.jpg */; };
+		E262855D15379246003AEE1E /* TunaTrio_0104.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852D15379246003AEE1E /* TunaTrio_0104.jpg */; };
+		E262855E15379246003AEE1E /* WhatCameFirst_0127.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852E15379246003AEE1E /* WhatCameFirst_0127.jpg */; };
+		E262855F15379246003AEE1E /* WhatCameFirst_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262852F15379246003AEE1E /* WhatCameFirst_DET_2.jpg */; };
+		E262856315379292003AEE1E /* BeefTender_DET_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262856015379292003AEE1E /* BeefTender_DET_2.jpg */; };
+		E262856415379292003AEE1E /* Charcuterie_0027.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262856115379292003AEE1E /* Charcuterie_0027.jpg */; };
+		E262856515379292003AEE1E /* Charcuterie_0036.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E262856215379292003AEE1E /* Charcuterie_0036.jpg */; };
+		E26285C7153796C2003AEE1E /* Steenbocks_CMYK_Large.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26285C2153796C2003AEE1E /* Steenbocks_CMYK_Large.jpg */; };
+		E26285C8153796C2003AEE1E /* Steenbocks_CMYK_Small.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26285C3153796C2003AEE1E /* Steenbocks_CMYK_Small.jpg */; };
+		E26285C9153796C2003AEE1E /* Steenbocks_Logos.eps in Resources */ = {isa = PBXBuildFile; fileRef = E26285C4153796C2003AEE1E /* Steenbocks_Logos.eps */; };
+		E26285CA153796C2003AEE1E /* Steenbocks_RGB_Large.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26285C5153796C2003AEE1E /* Steenbocks_RGB_Large.jpg */; };
+		E26285CB153796C2003AEE1E /* Steenbocks_RGB_Small.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E26285C6153796C2003AEE1E /* Steenbocks_RGB_Small.jpg */; };
+		E262864A1537AD54003AEE1E /* red_wine_bottle.png in Resources */ = {isa = PBXBuildFile; fileRef = E26286491537AD53003AEE1E /* red_wine_bottle.png */; };
+		E262864C1537AD60003AEE1E /* white_wine_bottle.png in Resources */ = {isa = PBXBuildFile; fileRef = E262864B1537AD60003AEE1E /* white_wine_bottle.png */; };
+		E262864E1537AD6A003AEE1E /* sodadispenser317d.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E262864D1537AD69003AEE1E /* sodadispenser317d.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,14 +129,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E2628475153236F4003AEE1E /* iPadTrial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPadTrial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2458E6E153A5E3600A2F60B /* facebook-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "facebook-icon.png"; path = "../facebook-icon.png"; sourceTree = "<group>"; };
+		E2458E71153A5E9C00A2F60B /* twitter-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "twitter-icon.png"; path = "../twitter-icon.png"; sourceTree = "<group>"; };
+		E2458E73153A5F1100A2F60B /* 12016174.c0d460db.560.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 12016174.c0d460db.560.jpg; path = ../12016174.c0d460db.560.jpg; sourceTree = "<group>"; };
+		E2458E74153A5F1100A2F60B /* socialIcons_pinterest.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = socialIcons_pinterest.png; path = ../socialIcons_pinterest.png; sourceTree = "<group>"; };
+		E2458E79153A8F6200A2F60B /* Soda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Soda.png; path = ../Soda.png; sourceTree = "<group>"; };
+		E2458E7B153A933400A2F60B /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
+		E2458E7D153A935600A2F60B /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		E2458E7F153B3A6100A2F60B /* 121-landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "121-landscape.png"; path = "../../Dropbox/Plate./121-landscape.png"; sourceTree = "<group>"; };
+		E2458E81153B3A6C00A2F60B /* 179-notepad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "179-notepad.png"; path = "../../Dropbox/Plate./179-notepad.png"; sourceTree = "<group>"; };
+		E2458E83153B4F4200A2F60B /* Google_login_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Google_login_button.png; path = ../Google_login_button.png; sourceTree = "<group>"; };
+		E2458E84153B4F4200A2F60B /* login-facebook-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "login-facebook-button.png"; path = "../login-facebook-button.png"; sourceTree = "<group>"; };
+		E2458E87153B535A00A2F60B /* Steenbocks_RGB_Large.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Steenbocks_RGB_Large.jpg; path = ../../Dropbox/Plate./Steenbocks_RGB_Large.jpg; sourceTree = "<group>"; };
+		E2458E89153B53CA00A2F60B /* Steenbocks_RGB_Large.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Steenbocks_RGB_Large.png; path = ../../Dropbox/Plate./Steenbocks_RGB_Large.png; sourceTree = "<group>"; };
+		E2628475153236F4003AEE1E /* Plate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Plate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2628479153236F4003AEE1E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E262847B153236F4003AEE1E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E262847D153236F4003AEE1E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		E2628481153236F4003AEE1E /* iPadTrial-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPadTrial-Info.plist"; sourceTree = "<group>"; };
+		E2628481153236F4003AEE1E /* Plate-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Plate-Info.plist"; sourceTree = "<group>"; };
 		E2628483153236F4003AEE1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E2628485153236F4003AEE1E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E2628487153236F4003AEE1E /* iPadTrial-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iPadTrial-Prefix.pch"; sourceTree = "<group>"; };
+		E2628487153236F4003AEE1E /* Plate-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Plate-Prefix.pch"; sourceTree = "<group>"; };
 		E2628488153236F4003AEE1E /* MenuTrialAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuTrialAppDelegate.h; sourceTree = "<group>"; };
 		E2628489153236F4003AEE1E /* MenuTrialAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuTrialAppDelegate.m; sourceTree = "<group>"; };
 		E262848C153236F4003AEE1E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
@@ -59,14 +161,90 @@
 		E2628496153236F4003AEE1E /* MenuTrialSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuTrialSecondViewController.m; sourceTree = "<group>"; };
 		E2628498153236F4003AEE1E /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		E262849A153236F4003AEE1E /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
-		E26284A1153236F4003AEE1E /* iPadTrialTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPadTrialTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E26284A1153236F4003AEE1E /* PlateTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlateTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E26284A2153236F4003AEE1E /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		E26284AA153236F4003AEE1E /* iPadTrialTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPadTrialTests-Info.plist"; sourceTree = "<group>"; };
+		E26284AA153236F4003AEE1E /* PlateTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PlateTests-Info.plist"; sourceTree = "<group>"; };
 		E26284AC153236F4003AEE1E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E26284AE153236F4003AEE1E /* iPadTrialTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iPadTrialTests.h; sourceTree = "<group>"; };
 		E26284AF153236F4003AEE1E /* iPadTrialTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPadTrialTests.m; sourceTree = "<group>"; };
 		E26284B915323810003AEE1E /* BurgerGuac-450.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "BurgerGuac-450.jpg"; path = "../../../Downloads/zhan2-Tabs-fa87e71 2/Tabs/BurgerGuac-450.jpg"; sourceTree = "<group>"; };
 		E26284BB15323D4C003AEE1E /* California Burger.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "California Burger.xib"; sourceTree = "<group>"; };
+		E26284C11533BA82003AEE1E /* Plate3_Logo(5x5)-page-001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Plate3_Logo(5x5)-page-001.jpg"; path = "../../../Downloads/Plate3_Logo(5x5)-page-001.jpg"; sourceTree = "<group>"; };
+		E26284C31533BBD9003AEE1E /* Screen Shot 2012-04-09 at 7.51.22 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2012-04-09 at 7.51.22 PM.png"; path = "../../Screen Shot 2012-04-09 at 7.51.22 PM.png"; sourceTree = "<group>"; };
+		E26284CD1535FACF003AEE1E /* Nutrition.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Nutrition.jpg; path = ../../Nutrition.jpg; sourceTree = "<group>"; };
+		E26284D115366078003AEE1E /* appIcon72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appIcon72x72.png; sourceTree = "<group>"; };
+		E26284D315366110003AEE1E /* appIcon144x144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appIcon144x144.png; sourceTree = "<group>"; };
+		E26284D515366512003AEE1E /* appIcon_background144x144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appIcon_background144x144.png; sourceTree = "<group>"; };
+		E26284D715366A90003AEE1E /* wine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wine.png; path = ../../../Dropbox/Plate./wine.png; sourceTree = "<group>"; };
+		E26284D915366F57003AEE1E /* wine_alpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wine_alpha.png; path = ../../../Dropbox/Plate./wine_alpha.png; sourceTree = "<group>"; };
+		E26284DB1536721F003AEE1E /* wine_alpha1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wine_alpha1.png; path = ../../../Dropbox/Plate./wine_alpha1.png; sourceTree = "<group>"; };
+		E26284E31536763F003AEE1E /* entree_alpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = entree_alpha.png; path = ../../../Dropbox/Plate./entree_alpha.png; sourceTree = "<group>"; };
+		E26284E515367E93003AEE1E /* appetizer_alpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appetizer_alpha.png; path = ../../../Dropbox/Plate./appetizer_alpha.png; sourceTree = "<group>"; };
+		E26284E71536819C003AEE1E /* dessert_alpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dessert_alpha.png; path = ../../../Dropbox/Plate./dessert_alpha.png; sourceTree = "<group>"; };
+		E26284E9153682CE003AEE1E /* drink_alpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drink_alpha.png; path = ../../../Dropbox/Plate./drink_alpha.png; sourceTree = "<group>"; };
+		E26284EB15368641003AEE1E /* non-alcoholic_alpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "non-alcoholic_alpha.png"; path = "../../../Dropbox/Plate./non-alcoholic_alpha.png"; sourceTree = "<group>"; };
+		E26284F3153791C2003AEE1E /* Duck_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Duck_03.jpg; sourceTree = "<group>"; };
+		E26284F5153791D9003AEE1E /* FishCheek_DET_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FishCheek_DET_1.jpg; sourceTree = "<group>"; };
+		E26284F7153791F3003AEE1E /* FPBurger_0020.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FPBurger_0020.jpg; sourceTree = "<group>"; };
+		E26284F915379210003AEE1E /* Lamb_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lamb_03.jpg; sourceTree = "<group>"; };
+		E26284FB1537921B003AEE1E /* Lobster_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lobster_DET_2.jpg; sourceTree = "<group>"; };
+		E26284FD1537922B003AEE1E /* PorkChop_0202.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PorkChop_0202.jpg; sourceTree = "<group>"; };
+		E262850015379246003AEE1E /* BeefTarTar_0071.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BeefTarTar_0071.jpg; sourceTree = "<group>"; };
+		E262850215379246003AEE1E /* Beets_C.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beets_C.jpg; sourceTree = "<group>"; };
+		E262850515379246003AEE1E /* Cheesecake_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cheesecake_04.jpg; sourceTree = "<group>"; };
+		E262850615379246003AEE1E /* ChefMichael.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ChefMichael.jpg; sourceTree = "<group>"; };
+		E262850715379246003AEE1E /* ChocoCake_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ChocoCake_03.jpg; sourceTree = "<group>"; };
+		E262850815379246003AEE1E /* Crostini_0054.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Crostini_0054.jpg; sourceTree = "<group>"; };
+		E262850915379246003AEE1E /* Crostini_DET_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Crostini_DET_6.jpg; sourceTree = "<group>"; };
+		E262850A15379246003AEE1E /* Crostini_DET_9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Crostini_DET_9.jpg; sourceTree = "<group>"; };
+		E262850B15379246003AEE1E /* Duck_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Duck_03.jpg; sourceTree = "<group>"; };
+		E262850C15379246003AEE1E /* entrance.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = entrance.jpg; sourceTree = "<group>"; };
+		E262850D15379246003AEE1E /* FieldGreens_B.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FieldGreens_B.jpg; sourceTree = "<group>"; };
+		E262850E15379246003AEE1E /* FishCheek_DET_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FishCheek_DET_1.jpg; sourceTree = "<group>"; };
+		E262850F15379246003AEE1E /* Fluke_0119.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fluke_0119.jpg; sourceTree = "<group>"; };
+		E262851015379246003AEE1E /* Foiegras_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Foiegras_01.jpg; sourceTree = "<group>"; };
+		E262851115379246003AEE1E /* FoieGras_0138.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FoieGras_0138.jpg; sourceTree = "<group>"; };
+		E262851215379246003AEE1E /* FoieGras_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FoieGras_DET_2.jpg; sourceTree = "<group>"; };
+		E262851315379246003AEE1E /* FPBurger_0020.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FPBurger_0020.jpg; sourceTree = "<group>"; };
+		E262851415379246003AEE1E /* kitchen_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitchen_01.jpg; sourceTree = "<group>"; };
+		E262851515379246003AEE1E /* Kitchen_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kitchen_02.jpg; sourceTree = "<group>"; };
+		E262851615379246003AEE1E /* Lamb_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lamb_03.jpg; sourceTree = "<group>"; };
+		E262851715379246003AEE1E /* Lobster_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lobster_DET_2.jpg; sourceTree = "<group>"; };
+		E262851815379246003AEE1E /* Oysters_0086.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Oysters_0086.jpg; sourceTree = "<group>"; };
+		E262851915379246003AEE1E /* PorkChop_0202.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PorkChop_0202.jpg; sourceTree = "<group>"; };
+		E262851A15379246003AEE1E /* PorkChop_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PorkChop_DET_2.jpg; sourceTree = "<group>"; };
+		E262851B15379246003AEE1E /* PorkTender_0190.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PorkTender_0190.jpg; sourceTree = "<group>"; };
+		E262851C15379246003AEE1E /* PorkTender_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PorkTender_DET_2.jpg; sourceTree = "<group>"; };
+		E262851D15379246003AEE1E /* RockShrimp_0039.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = RockShrimp_0039.jpg; sourceTree = "<group>"; };
+		E262851E15379246003AEE1E /* Scallops_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Scallops_02.jpg; sourceTree = "<group>"; };
+		E262851F15379246003AEE1E /* Smore_0233.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Smore_0233.jpg; sourceTree = "<group>"; };
+		E262852015379246003AEE1E /* Snapper_0159.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Snapper_0159.jpg; sourceTree = "<group>"; };
+		E262852115379246003AEE1E /* Snapper_DET_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Snapper_DET_1.jpg; sourceTree = "<group>"; };
+		E262852215379246003AEE1E /* Sole_0180.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sole_0180.jpg; sourceTree = "<group>"; };
+		E262852315379246003AEE1E /* Splat_0010.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Splat_0010.jpg; sourceTree = "<group>"; };
+		E262852415379246003AEE1E /* Splat_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Splat_DET_2.jpg; sourceTree = "<group>"; };
+		E262852515379246003AEE1E /* SteenbockAldo_003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SteenbockAldo_003.jpg; sourceTree = "<group>"; };
+		E262852615379246003AEE1E /* SteenbockAldo_012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SteenbockAldo_012.jpg; sourceTree = "<group>"; };
+		E262852715379246003AEE1E /* SteenbockAldo_014.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SteenbockAldo_014.jpg; sourceTree = "<group>"; };
+		E262852815379246003AEE1E /* SteenbockAldo_017.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SteenbockAldo_017.jpg; sourceTree = "<group>"; };
+		E262852915379246003AEE1E /* SteenbockNight_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SteenbockNight_01.jpg; sourceTree = "<group>"; };
+		E262852A15379246003AEE1E /* SteenbockNight_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SteenbockNight_12.jpg; sourceTree = "<group>"; };
+		E262852B15379246003AEE1E /* StripedBass_0174.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = StripedBass_0174.jpg; sourceTree = "<group>"; };
+		E262852C15379246003AEE1E /* StripedBass_DET_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = StripedBass_DET_1.jpg; sourceTree = "<group>"; };
+		E262852D15379246003AEE1E /* TunaTrio_0104.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = TunaTrio_0104.jpg; sourceTree = "<group>"; };
+		E262852E15379246003AEE1E /* WhatCameFirst_0127.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WhatCameFirst_0127.jpg; sourceTree = "<group>"; };
+		E262852F15379246003AEE1E /* WhatCameFirst_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WhatCameFirst_DET_2.jpg; sourceTree = "<group>"; };
+		E262856015379292003AEE1E /* BeefTender_DET_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BeefTender_DET_2.jpg; path = ../../.Trash/BeefTender_DET_2.jpg; sourceTree = "<group>"; };
+		E262856115379292003AEE1E /* Charcuterie_0027.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Charcuterie_0027.jpg; path = ../../.Trash/Charcuterie_0027.jpg; sourceTree = "<group>"; };
+		E262856215379292003AEE1E /* Charcuterie_0036.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Charcuterie_0036.jpg; path = ../../.Trash/Charcuterie_0036.jpg; sourceTree = "<group>"; };
+		E26285C2153796C2003AEE1E /* Steenbocks_CMYK_Large.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Steenbocks_CMYK_Large.jpg; sourceTree = "<group>"; };
+		E26285C3153796C2003AEE1E /* Steenbocks_CMYK_Small.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Steenbocks_CMYK_Small.jpg; sourceTree = "<group>"; };
+		E26285C4153796C2003AEE1E /* Steenbocks_Logos.eps */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Steenbocks_Logos.eps; sourceTree = "<group>"; };
+		E26285C5153796C2003AEE1E /* Steenbocks_RGB_Large.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Steenbocks_RGB_Large.jpg; sourceTree = "<group>"; };
+		E26285C6153796C2003AEE1E /* Steenbocks_RGB_Small.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Steenbocks_RGB_Small.jpg; sourceTree = "<group>"; };
+		E26286491537AD53003AEE1E /* red_wine_bottle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = red_wine_bottle.png; path = ../red_wine_bottle.png; sourceTree = "<group>"; };
+		E262864B1537AD60003AEE1E /* white_wine_bottle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = white_wine_bottle.png; path = ../white_wine_bottle.png; sourceTree = "<group>"; };
+		E262864D1537AD69003AEE1E /* sodadispenser317d.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sodadispenser317d.JPG; path = ../sodadispenser317d.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +274,27 @@
 		E262846A153236F3003AEE1E = {
 			isa = PBXGroup;
 			children = (
+				E2458E7D153A935600A2F60B /* Default-Landscape~ipad.png */,
+				E2458E7B153A933400A2F60B /* Default-Landscape@2x~ipad.png */,
+				E262864D1537AD69003AEE1E /* sodadispenser317d.JPG */,
+				E262864B1537AD60003AEE1E /* white_wine_bottle.png */,
+				E2458E87153B535A00A2F60B /* Steenbocks_RGB_Large.jpg */,
+				E2458E89153B53CA00A2F60B /* Steenbocks_RGB_Large.png */,
+				E2458E7F153B3A6100A2F60B /* 121-landscape.png */,
+				E2458E6E153A5E3600A2F60B /* facebook-icon.png */,
+				E2458E83153B4F4200A2F60B /* Google_login_button.png */,
+				E2458E84153B4F4200A2F60B /* login-facebook-button.png */,
+				E2458E79153A8F6200A2F60B /* Soda.png */,
+				E2458E81153B3A6C00A2F60B /* 179-notepad.png */,
+				E2458E73153A5F1100A2F60B /* 12016174.c0d460db.560.jpg */,
+				E2458E74153A5F1100A2F60B /* socialIcons_pinterest.png */,
+				E2458E71153A5E9C00A2F60B /* twitter-icon.png */,
+				E26286491537AD53003AEE1E /* red_wine_bottle.png */,
+				E26284D515366512003AEE1E /* appIcon_background144x144.png */,
+				E26284D315366110003AEE1E /* appIcon144x144.png */,
+				E26284D115366078003AEE1E /* appIcon72x72.png */,
+				E26285C1153796C2003AEE1E /* Steenbocks Logos */,
+				E26284FF15379246003AEE1E /* Steenbock's on Orchard */,
 				E262847F153236F4003AEE1E /* iPadTrial */,
 				E26284A8153236F4003AEE1E /* iPadTrialTests */,
 				E2628478153236F4003AEE1E /* Frameworks */,
@@ -106,8 +305,8 @@
 		E2628476153236F4003AEE1E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E2628475153236F4003AEE1E /* iPadTrial.app */,
-				E26284A1153236F4003AEE1E /* iPadTrialTests.octest */,
+				E2628475153236F4003AEE1E /* Plate.app */,
+				E26284A1153236F4003AEE1E /* PlateTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -126,19 +325,14 @@
 		E262847F153236F4003AEE1E /* iPadTrial */ = {
 			isa = PBXGroup;
 			children = (
-				E26284B915323810003AEE1E /* BurgerGuac-450.jpg */,
 				E2628488153236F4003AEE1E /* MenuTrialAppDelegate.h */,
 				E2628489153236F4003AEE1E /* MenuTrialAppDelegate.m */,
 				E262848B153236F4003AEE1E /* MainStoryboard.storyboard */,
 				E26284BB15323D4C003AEE1E /* California Burger.xib */,
 				E262848E153236F4003AEE1E /* MenuTrialFirstViewController.h */,
 				E262848F153236F4003AEE1E /* MenuTrialFirstViewController.m */,
-				E2628491153236F4003AEE1E /* first.png */,
-				E2628493153236F4003AEE1E /* first@2x.png */,
 				E2628495153236F4003AEE1E /* MenuTrialSecondViewController.h */,
 				E2628496153236F4003AEE1E /* MenuTrialSecondViewController.m */,
-				E2628498153236F4003AEE1E /* second.png */,
-				E262849A153236F4003AEE1E /* second@2x.png */,
 				E2628480153236F4003AEE1E /* Supporting Files */,
 			);
 			path = iPadTrial;
@@ -147,10 +341,26 @@
 		E2628480153236F4003AEE1E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				E2628481153236F4003AEE1E /* iPadTrial-Info.plist */,
+				E26284CD1535FACF003AEE1E /* Nutrition.jpg */,
+				E2628498153236F4003AEE1E /* second.png */,
+				E26284C11533BA82003AEE1E /* Plate3_Logo(5x5)-page-001.jpg */,
+				E26284D915366F57003AEE1E /* wine_alpha.png */,
+				E262849A153236F4003AEE1E /* second@2x.png */,
+				E26284C31533BBD9003AEE1E /* Screen Shot 2012-04-09 at 7.51.22 PM.png */,
+				E2628481153236F4003AEE1E /* Plate-Info.plist */,
+				E26284E31536763F003AEE1E /* entree_alpha.png */,
+				E26284EB15368641003AEE1E /* non-alcoholic_alpha.png */,
+				E2628491153236F4003AEE1E /* first.png */,
+				E2628493153236F4003AEE1E /* first@2x.png */,
+				E26284D715366A90003AEE1E /* wine.png */,
+				E26284E9153682CE003AEE1E /* drink_alpha.png */,
+				E26284DB1536721F003AEE1E /* wine_alpha1.png */,
+				E26284E71536819C003AEE1E /* dessert_alpha.png */,
+				E26284E515367E93003AEE1E /* appetizer_alpha.png */,
+				E26284B915323810003AEE1E /* BurgerGuac-450.jpg */,
 				E2628482153236F4003AEE1E /* InfoPlist.strings */,
 				E2628485153236F4003AEE1E /* main.m */,
-				E2628487153236F4003AEE1E /* iPadTrial-Prefix.pch */,
+				E2628487153236F4003AEE1E /* Plate-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -168,18 +378,93 @@
 		E26284A9153236F4003AEE1E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				E26284AA153236F4003AEE1E /* iPadTrialTests-Info.plist */,
+				E26284AA153236F4003AEE1E /* PlateTests-Info.plist */,
 				E26284AB153236F4003AEE1E /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		E26284FF15379246003AEE1E /* Steenbock's on Orchard */ = {
+			isa = PBXGroup;
+			children = (
+				E262850015379246003AEE1E /* BeefTarTar_0071.jpg */,
+				E262850215379246003AEE1E /* Beets_C.jpg */,
+				E262856015379292003AEE1E /* BeefTender_DET_2.jpg */,
+				E262856115379292003AEE1E /* Charcuterie_0027.jpg */,
+				E262856215379292003AEE1E /* Charcuterie_0036.jpg */,
+				E262850515379246003AEE1E /* Cheesecake_04.jpg */,
+				E262850615379246003AEE1E /* ChefMichael.jpg */,
+				E262850715379246003AEE1E /* ChocoCake_03.jpg */,
+				E262850815379246003AEE1E /* Crostini_0054.jpg */,
+				E262850915379246003AEE1E /* Crostini_DET_6.jpg */,
+				E262850A15379246003AEE1E /* Crostini_DET_9.jpg */,
+				E262850B15379246003AEE1E /* Duck_03.jpg */,
+				E262850C15379246003AEE1E /* entrance.jpg */,
+				E262850D15379246003AEE1E /* FieldGreens_B.jpg */,
+				E262850E15379246003AEE1E /* FishCheek_DET_1.jpg */,
+				E262850F15379246003AEE1E /* Fluke_0119.jpg */,
+				E262851015379246003AEE1E /* Foiegras_01.jpg */,
+				E262851115379246003AEE1E /* FoieGras_0138.jpg */,
+				E262851215379246003AEE1E /* FoieGras_DET_2.jpg */,
+				E262851315379246003AEE1E /* FPBurger_0020.jpg */,
+				E262851415379246003AEE1E /* kitchen_01.jpg */,
+				E262851515379246003AEE1E /* Kitchen_02.jpg */,
+				E262851615379246003AEE1E /* Lamb_03.jpg */,
+				E262851715379246003AEE1E /* Lobster_DET_2.jpg */,
+				E262851815379246003AEE1E /* Oysters_0086.jpg */,
+				E262851915379246003AEE1E /* PorkChop_0202.jpg */,
+				E262851A15379246003AEE1E /* PorkChop_DET_2.jpg */,
+				E262851B15379246003AEE1E /* PorkTender_0190.jpg */,
+				E262851C15379246003AEE1E /* PorkTender_DET_2.jpg */,
+				E262851D15379246003AEE1E /* RockShrimp_0039.jpg */,
+				E262851E15379246003AEE1E /* Scallops_02.jpg */,
+				E262851F15379246003AEE1E /* Smore_0233.jpg */,
+				E262852015379246003AEE1E /* Snapper_0159.jpg */,
+				E262852115379246003AEE1E /* Snapper_DET_1.jpg */,
+				E262852215379246003AEE1E /* Sole_0180.jpg */,
+				E262852315379246003AEE1E /* Splat_0010.jpg */,
+				E262852415379246003AEE1E /* Splat_DET_2.jpg */,
+				E262852515379246003AEE1E /* SteenbockAldo_003.jpg */,
+				E262852615379246003AEE1E /* SteenbockAldo_012.jpg */,
+				E262852715379246003AEE1E /* SteenbockAldo_014.jpg */,
+				E262852815379246003AEE1E /* SteenbockAldo_017.jpg */,
+				E262852915379246003AEE1E /* SteenbockNight_01.jpg */,
+				E262852A15379246003AEE1E /* SteenbockNight_12.jpg */,
+				E262852B15379246003AEE1E /* StripedBass_0174.jpg */,
+				E26284FD1537922B003AEE1E /* PorkChop_0202.jpg */,
+				E26284FB1537921B003AEE1E /* Lobster_DET_2.jpg */,
+				E26284F915379210003AEE1E /* Lamb_03.jpg */,
+				E26284F7153791F3003AEE1E /* FPBurger_0020.jpg */,
+				E26284F5153791D9003AEE1E /* FishCheek_DET_1.jpg */,
+				E26284F3153791C2003AEE1E /* Duck_03.jpg */,
+				E262852C15379246003AEE1E /* StripedBass_DET_1.jpg */,
+				E262852D15379246003AEE1E /* TunaTrio_0104.jpg */,
+				E262852E15379246003AEE1E /* WhatCameFirst_0127.jpg */,
+				E262852F15379246003AEE1E /* WhatCameFirst_DET_2.jpg */,
+			);
+			name = "Steenbock's on Orchard";
+			path = "../Steenbock's on Orchard";
+			sourceTree = "<group>";
+		};
+		E26285C1153796C2003AEE1E /* Steenbocks Logos */ = {
+			isa = PBXGroup;
+			children = (
+				E26285C2153796C2003AEE1E /* Steenbocks_CMYK_Large.jpg */,
+				E26285C3153796C2003AEE1E /* Steenbocks_CMYK_Small.jpg */,
+				E26285C4153796C2003AEE1E /* Steenbocks_Logos.eps */,
+				E26285C5153796C2003AEE1E /* Steenbocks_RGB_Large.jpg */,
+				E26285C6153796C2003AEE1E /* Steenbocks_RGB_Small.jpg */,
+			);
+			name = "Steenbocks Logos";
+			path = "../Steenbocks Logos";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E2628474153236F4003AEE1E /* iPadTrial */ = {
+		E2628474153236F4003AEE1E /* Plate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E26284B3153236F4003AEE1E /* Build configuration list for PBXNativeTarget "iPadTrial" */;
+			buildConfigurationList = E26284B3153236F4003AEE1E /* Build configuration list for PBXNativeTarget "Plate" */;
 			buildPhases = (
 				E2628471153236F4003AEE1E /* Sources */,
 				E2628472153236F4003AEE1E /* Frameworks */,
@@ -189,14 +474,14 @@
 			);
 			dependencies = (
 			);
-			name = iPadTrial;
+			name = Plate;
 			productName = iPadTrial;
-			productReference = E2628475153236F4003AEE1E /* iPadTrial.app */;
+			productReference = E2628475153236F4003AEE1E /* Plate.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E26284A0153236F4003AEE1E /* iPadTrialTests */ = {
+		E26284A0153236F4003AEE1E /* PlateTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E26284B6153236F4003AEE1E /* Build configuration list for PBXNativeTarget "iPadTrialTests" */;
+			buildConfigurationList = E26284B6153236F4003AEE1E /* Build configuration list for PBXNativeTarget "PlateTests" */;
 			buildPhases = (
 				E262849C153236F4003AEE1E /* Sources */,
 				E262849D153236F4003AEE1E /* Frameworks */,
@@ -208,9 +493,9 @@
 			dependencies = (
 				E26284A7153236F4003AEE1E /* PBXTargetDependency */,
 			);
-			name = iPadTrialTests;
+			name = PlateTests;
 			productName = iPadTrialTests;
-			productReference = E26284A1153236F4003AEE1E /* iPadTrialTests.octest */;
+			productReference = E26284A1153236F4003AEE1E /* PlateTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -223,7 +508,7 @@
 				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "University of Wisconsin";
 			};
-			buildConfigurationList = E262846F153236F3003AEE1E /* Build configuration list for PBXProject "iPadTrial" */;
+			buildConfigurationList = E262846F153236F3003AEE1E /* Build configuration list for PBXProject "Plate" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -235,8 +520,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E2628474153236F4003AEE1E /* iPadTrial */,
-				E26284A0153236F4003AEE1E /* iPadTrialTests */,
+				E2628474153236F4003AEE1E /* Plate */,
+				E26284A0153236F4003AEE1E /* PlateTests */,
 			);
 		};
 /* End PBXProject section */
@@ -254,6 +539,95 @@
 				E262849B153236F4003AEE1E /* second@2x.png in Resources */,
 				E26284BA15323810003AEE1E /* BurgerGuac-450.jpg in Resources */,
 				E26284BC15323D4C003AEE1E /* California Burger.xib in Resources */,
+				E26284C21533BA82003AEE1E /* Plate3_Logo(5x5)-page-001.jpg in Resources */,
+				E26284C41533BBDA003AEE1E /* Screen Shot 2012-04-09 at 7.51.22 PM.png in Resources */,
+				E26284CE1535FACF003AEE1E /* Nutrition.jpg in Resources */,
+				E26284D215366078003AEE1E /* appIcon72x72.png in Resources */,
+				E26284D415366110003AEE1E /* appIcon144x144.png in Resources */,
+				E26284D615366513003AEE1E /* appIcon_background144x144.png in Resources */,
+				E26284D815366A91003AEE1E /* wine.png in Resources */,
+				E26284DA15366F57003AEE1E /* wine_alpha.png in Resources */,
+				E26284DC15367220003AEE1E /* wine_alpha1.png in Resources */,
+				E26284E415367640003AEE1E /* entree_alpha.png in Resources */,
+				E26284E615367E93003AEE1E /* appetizer_alpha.png in Resources */,
+				E26284E81536819C003AEE1E /* dessert_alpha.png in Resources */,
+				E26284EA153682CE003AEE1E /* drink_alpha.png in Resources */,
+				E26284EC15368642003AEE1E /* non-alcoholic_alpha.png in Resources */,
+				E26284F4153791C2003AEE1E /* Duck_03.jpg in Resources */,
+				E26284F6153791D9003AEE1E /* FishCheek_DET_1.jpg in Resources */,
+				E26284F8153791F3003AEE1E /* FPBurger_0020.jpg in Resources */,
+				E26284FA15379210003AEE1E /* Lamb_03.jpg in Resources */,
+				E26284FC1537921B003AEE1E /* Lobster_DET_2.jpg in Resources */,
+				E26284FE1537922B003AEE1E /* PorkChop_0202.jpg in Resources */,
+				E262853015379246003AEE1E /* BeefTarTar_0071.jpg in Resources */,
+				E262853215379246003AEE1E /* Beets_C.jpg in Resources */,
+				E262853515379246003AEE1E /* Cheesecake_04.jpg in Resources */,
+				E262853615379246003AEE1E /* ChefMichael.jpg in Resources */,
+				E262853715379246003AEE1E /* ChocoCake_03.jpg in Resources */,
+				E262853815379246003AEE1E /* Crostini_0054.jpg in Resources */,
+				E262853915379246003AEE1E /* Crostini_DET_6.jpg in Resources */,
+				E262853A15379246003AEE1E /* Crostini_DET_9.jpg in Resources */,
+				E262853B15379246003AEE1E /* Duck_03.jpg in Resources */,
+				E262853C15379246003AEE1E /* entrance.jpg in Resources */,
+				E262853D15379246003AEE1E /* FieldGreens_B.jpg in Resources */,
+				E262853E15379246003AEE1E /* FishCheek_DET_1.jpg in Resources */,
+				E262853F15379246003AEE1E /* Fluke_0119.jpg in Resources */,
+				E262854015379246003AEE1E /* Foiegras_01.jpg in Resources */,
+				E262854115379246003AEE1E /* FoieGras_0138.jpg in Resources */,
+				E262854215379246003AEE1E /* FoieGras_DET_2.jpg in Resources */,
+				E262854315379246003AEE1E /* FPBurger_0020.jpg in Resources */,
+				E262854415379246003AEE1E /* kitchen_01.jpg in Resources */,
+				E262854515379246003AEE1E /* Kitchen_02.jpg in Resources */,
+				E262854615379246003AEE1E /* Lamb_03.jpg in Resources */,
+				E262854715379246003AEE1E /* Lobster_DET_2.jpg in Resources */,
+				E262854815379246003AEE1E /* Oysters_0086.jpg in Resources */,
+				E262854915379246003AEE1E /* PorkChop_0202.jpg in Resources */,
+				E262854A15379246003AEE1E /* PorkChop_DET_2.jpg in Resources */,
+				E262854B15379246003AEE1E /* PorkTender_0190.jpg in Resources */,
+				E262854C15379246003AEE1E /* PorkTender_DET_2.jpg in Resources */,
+				E262854D15379246003AEE1E /* RockShrimp_0039.jpg in Resources */,
+				E262854E15379246003AEE1E /* Scallops_02.jpg in Resources */,
+				E262854F15379246003AEE1E /* Smore_0233.jpg in Resources */,
+				E262855015379246003AEE1E /* Snapper_0159.jpg in Resources */,
+				E262855115379246003AEE1E /* Snapper_DET_1.jpg in Resources */,
+				E262855215379246003AEE1E /* Sole_0180.jpg in Resources */,
+				E262855315379246003AEE1E /* Splat_0010.jpg in Resources */,
+				E262855415379246003AEE1E /* Splat_DET_2.jpg in Resources */,
+				E262855515379246003AEE1E /* SteenbockAldo_003.jpg in Resources */,
+				E262855615379246003AEE1E /* SteenbockAldo_012.jpg in Resources */,
+				E262855715379246003AEE1E /* SteenbockAldo_014.jpg in Resources */,
+				E262855815379246003AEE1E /* SteenbockAldo_017.jpg in Resources */,
+				E262855915379246003AEE1E /* SteenbockNight_01.jpg in Resources */,
+				E262855A15379246003AEE1E /* SteenbockNight_12.jpg in Resources */,
+				E262855B15379246003AEE1E /* StripedBass_0174.jpg in Resources */,
+				E262855C15379246003AEE1E /* StripedBass_DET_1.jpg in Resources */,
+				E262855D15379246003AEE1E /* TunaTrio_0104.jpg in Resources */,
+				E262855E15379246003AEE1E /* WhatCameFirst_0127.jpg in Resources */,
+				E262855F15379246003AEE1E /* WhatCameFirst_DET_2.jpg in Resources */,
+				E262856315379292003AEE1E /* BeefTender_DET_2.jpg in Resources */,
+				E262856415379292003AEE1E /* Charcuterie_0027.jpg in Resources */,
+				E262856515379292003AEE1E /* Charcuterie_0036.jpg in Resources */,
+				E26285C7153796C2003AEE1E /* Steenbocks_CMYK_Large.jpg in Resources */,
+				E26285C8153796C2003AEE1E /* Steenbocks_CMYK_Small.jpg in Resources */,
+				E26285C9153796C2003AEE1E /* Steenbocks_Logos.eps in Resources */,
+				E26285CA153796C2003AEE1E /* Steenbocks_RGB_Large.jpg in Resources */,
+				E26285CB153796C2003AEE1E /* Steenbocks_RGB_Small.jpg in Resources */,
+				E262864A1537AD54003AEE1E /* red_wine_bottle.png in Resources */,
+				E262864C1537AD60003AEE1E /* white_wine_bottle.png in Resources */,
+				E262864E1537AD6A003AEE1E /* sodadispenser317d.JPG in Resources */,
+				E2458E6F153A5E3600A2F60B /* facebook-icon.png in Resources */,
+				E2458E72153A5E9C00A2F60B /* twitter-icon.png in Resources */,
+				E2458E75153A5F1100A2F60B /* 12016174.c0d460db.560.jpg in Resources */,
+				E2458E76153A5F1100A2F60B /* socialIcons_pinterest.png in Resources */,
+				E2458E7A153A8F6200A2F60B /* Soda.png in Resources */,
+				E2458E7C153A933400A2F60B /* Default-Landscape@2x~ipad.png in Resources */,
+				E2458E7E153A935600A2F60B /* Default-Landscape~ipad.png in Resources */,
+				E2458E80153B3A6100A2F60B /* 121-landscape.png in Resources */,
+				E2458E82153B3A6C00A2F60B /* 179-notepad.png in Resources */,
+				E2458E85153B4F4300A2F60B /* Google_login_button.png in Resources */,
+				E2458E86153B4F4300A2F60B /* login-facebook-button.png in Resources */,
+				E2458E88153B535A00A2F60B /* Steenbocks_RGB_Large.jpg in Resources */,
+				E2458E8A153B53CA00A2F60B /* Steenbocks_RGB_Large.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,7 +682,7 @@
 /* Begin PBXTargetDependency section */
 		E26284A7153236F4003AEE1E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E2628474153236F4003AEE1E /* iPadTrial */;
+			target = E2628474153236F4003AEE1E /* Plate */;
 			targetProxy = E26284A6153236F4003AEE1E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -347,6 +721,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -362,6 +737,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 			};
@@ -373,6 +749,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -382,6 +759,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 				VALIDATE_PRODUCT = YES;
@@ -392,9 +770,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iPadTrial/iPadTrial-Prefix.pch";
-				INFOPLIST_FILE = "iPadTrial/iPadTrial-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iPadTrial/Plate-Prefix.pch";
+				INFOPLIST_FILE = "iPadTrial/Plate-Info.plist";
+				PRODUCT_NAME = Plate;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -403,9 +781,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iPadTrial/iPadTrial-Prefix.pch";
-				INFOPLIST_FILE = "iPadTrial/iPadTrial-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iPadTrial/Plate-Prefix.pch";
+				INFOPLIST_FILE = "iPadTrial/Plate-Info.plist";
+				PRODUCT_NAME = Plate;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -420,8 +798,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iPadTrial/iPadTrial-Prefix.pch";
-				INFOPLIST_FILE = "iPadTrialTests/iPadTrialTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "iPadTrialTests/PlateTests-Info.plist";
+				PRODUCT_NAME = PlateTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -437,8 +815,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iPadTrial/iPadTrial-Prefix.pch";
-				INFOPLIST_FILE = "iPadTrialTests/iPadTrialTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "iPadTrialTests/PlateTests-Info.plist";
+				PRODUCT_NAME = PlateTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -447,7 +825,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E262846F153236F3003AEE1E /* Build configuration list for PBXProject "iPadTrial" */ = {
+		E262846F153236F3003AEE1E /* Build configuration list for PBXProject "Plate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E26284B1153236F4003AEE1E /* Debug */,
@@ -456,21 +834,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E26284B3153236F4003AEE1E /* Build configuration list for PBXNativeTarget "iPadTrial" */ = {
+		E26284B3153236F4003AEE1E /* Build configuration list for PBXNativeTarget "Plate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E26284B4153236F4003AEE1E /* Debug */,
 				E26284B5153236F4003AEE1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		E26284B6153236F4003AEE1E /* Build configuration list for PBXNativeTarget "iPadTrialTests" */ = {
+		E26284B6153236F4003AEE1E /* Build configuration list for PBXNativeTarget "PlateTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E26284B7153236F4003AEE1E /* Debug */,
 				E26284B8153236F4003AEE1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

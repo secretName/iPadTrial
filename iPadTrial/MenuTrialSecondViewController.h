@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface MenuTrialSecondViewController : UIViewController
-
+- (IBAction)handlePan:(UIPanGestureRecognizer *)recognizer;
 @end
+
+

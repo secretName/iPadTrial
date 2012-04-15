@@ -14,9 +14,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E2628474153236F4003AEE1E"
-               BuildableName = "iPadTrial.app"
-               BlueprintName = "iPadTrial"
-               ReferencedContainer = "container:iPadTrial.xcodeproj">
+               BuildableName = "Plate.app"
+               BlueprintName = "Plate"
+               ReferencedContainer = "container:Plate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,9 +32,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E26284A0153236F4003AEE1E"
-               BuildableName = "iPadTrialTests.octest"
-               BlueprintName = "iPadTrialTests"
-               ReferencedContainer = "container:iPadTrial.xcodeproj">
+               BuildableName = "PlateTests.octest"
+               BlueprintName = "PlateTests"
+               ReferencedContainer = "container:Plate.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -42,9 +42,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2628474153236F4003AEE1E"
-            BuildableName = "iPadTrial.app"
-            BlueprintName = "iPadTrial"
-            ReferencedContainer = "container:iPadTrial.xcodeproj">
+            BuildableName = "Plate.app"
+            BlueprintName = "Plate"
+            ReferencedContainer = "container:Plate.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,9 +61,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2628474153236F4003AEE1E"
-            BuildableName = "iPadTrial.app"
-            BlueprintName = "iPadTrial"
-            ReferencedContainer = "container:iPadTrial.xcodeproj">
+            BuildableName = "Plate.app"
+            BlueprintName = "Plate"
+            ReferencedContainer = "container:Plate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,9 +79,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E2628474153236F4003AEE1E"
-            BuildableName = "iPadTrial.app"
-            BlueprintName = "iPadTrial"
-            ReferencedContainer = "container:iPadTrial.xcodeproj">
+            BuildableName = "Plate.app"
+            BlueprintName = "Plate"
+            ReferencedContainer = "container:Plate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
