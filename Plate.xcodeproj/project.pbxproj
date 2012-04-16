@@ -116,6 +116,7 @@
 		E262864A1537AD54003AEE1E /* red_wine_bottle.png in Resources */ = {isa = PBXBuildFile; fileRef = E26286491537AD53003AEE1E /* red_wine_bottle.png */; };
 		E262864C1537AD60003AEE1E /* white_wine_bottle.png in Resources */ = {isa = PBXBuildFile; fileRef = E262864B1537AD60003AEE1E /* white_wine_bottle.png */; };
 		E262864E1537AD6A003AEE1E /* sodadispenser317d.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E262864D1537AD69003AEE1E /* sodadispenser317d.JPG */; };
+		E2923BD1153B940F009C00EE /* California Burger.xib in Resources */ = {isa = PBXBuildFile; fileRef = E26284BB15323D4C003AEE1E /* California Burger.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -628,6 +629,7 @@
 				E2458E86153B4F4300A2F60B /* login-facebook-button.png in Resources */,
 				E2458E88153B535A00A2F60B /* Steenbocks_RGB_Large.jpg in Resources */,
 				E2458E8A153B53CA00A2F60B /* Steenbocks_RGB_Large.png in Resources */,
+				E2923BD1153B940F009C00EE /* California Burger.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
